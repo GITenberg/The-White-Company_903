@@ -1,5 +1,8 @@
 _repo: The-White-Company_903
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -28,6 +31,8 @@ description: "The White Company is a historical adventure by Arthur Conan Doyle 
   \ of archers, led by one of the main characters. The name is taken from a real-life\
   \ 14th-Century Italian mercenary company, led by John Hawkwood.\n\n\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/903#The-White-Company
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '1997-05-01'
 gutenberg_type: Text
